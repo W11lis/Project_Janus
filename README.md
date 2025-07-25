@@ -1,4 +1,4 @@
-########################################################Project Janus: A manifesto########################################################
+#############################################Project Janus: A manifesto#############################################
 
 The device in your hand is not your own. It is a rented space, governed by rules you did not write and locked by keys you did not hold.
 For years, we have fought for administrative control, for root, by playing a game on a board designed by the gatekeepers. Exploits,
